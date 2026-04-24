@@ -1,0 +1,10 @@
+# Server
+/node_modules
+/transcripts
+/recordings
+.env
+
+
+# Misc
+.DS_Store
+*.log
