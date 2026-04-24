@@ -1,7 +1,7 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom"
-import Home from "./pages/Home"
-import CustomerCall from "./pages/CustomerCall"
-import AgentDashboard from "./pages/AgentDashboard"
+import Home from "./components/Home"
+import CustomerCall from "./components/CustomerCall"
+import AgentDashboard from "./components/AgentDashboard"
 
 const router = createBrowserRouter([
   {

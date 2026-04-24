@@ -155,3 +155,12 @@ All API responses follow format: `{ success: boolean, message: string, data: any
 - **No room capacity limits** 
 - **Speech recognition** 
 - **Recording** 
+
+
+## Output Screen Shot:
+
+![Home](image.png)
+
+![Customer Screen](image-1.png)
+
+![agent Screen](image-2.png)
