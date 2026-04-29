@@ -47,7 +47,6 @@ function CustomerCall() {
           };
 
           peerConnection.ontrack = function (event) {
-            // Using document.getElementById is a very beginner React pattern!
             let audioElement = document.getElementById("remoteAudio");
             if (audioElement) {
               audioElement.srcObject = event.streams[0];
